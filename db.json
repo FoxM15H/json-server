@@ -1,0 +1,2659 @@
+{
+  "catalog": [
+    {
+      "id": "jar_sko",
+      "name": "Банка СКО"
+    },
+    {
+      "id": "jar_tvist",
+      "name": "Банка ТВИСТ"
+    },
+    {
+      "id": "glass_bottle",
+      "name": "Бутылка стеклянная"
+    },
+    {
+      "id": "lid_tvist",
+      "name": "Крышка ТВИСТ"
+    },
+    {
+      "id": "lid_sko",
+      "name": "Крышка СКО"
+    }
+  ],
+  "price": [
+    {
+      "catalogId": "jar_sko",
+      "id": "1_1",
+      "name": "С/банка 1-58-250 ГОСТ 5717.1-2003",
+      "quantity": "4085 (евро паллет)",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_sko",
+      "id": "1_2",
+      "name": "С/банка I-82-500 ГОСТ 5717.1-2003",
+      "quantity": "2873",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_sko",
+      "id": "1_3",
+      "name": "С/банка I-82-650 ГОСТ 5717.1-2003",
+      "quantity": "2366",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_sko",
+      "id": "1_4",
+      "name": "С/банка КБ63-1-82-950 ГОСТ 5717.1-2003",
+      "quantity": "1651",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_sko",
+      "id": "1_5",
+      "name": "С/банка КБ28-1- 82-1500 ГОСТ 5717.1-2003",
+      "quantity": "1000",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_sko",
+      "id": "1_6",
+      "name": "С/банка I-82-2000 ГОСТ 5717.1-2003",
+      "quantity": "630",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_sko",
+      "id": "1_7",
+      "name": "С/банка I-82-3000 ГОСТ 5717.1-2003",
+      "quantity": "441",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_1",
+      "name": "С/банка КБ87-В48А-120, крышка «твист-офф» Ф 48 СТО 00287355-002-2010",
+      "quantity": "6084",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_2",
+      "name": "С/банка КБ13-В58А-200, крышка «твист-офф» Ф 58 СТО 00287355-002-2010",
+      "quantity": "5415 (евро паллет)",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_3",
+      "name": "С/банка КБ7-В58А-250 , крышка «твист-офф» Ф 58 СТО 00287355-002-2010",
+      "quantity": "4085 (евро паллет)",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_4",
+      "name": "С/банка КБ149-В66А-250, крышка «твист-офф» Ф 66 СТО 00287355-002-2010",
+      "quantity": "5397",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_5",
+      "name": "С/банка КБ152-В66А-250, крышка «твист-офф» Ф 66 СТО 00287355-002-2010",
+      "quantity": "4704",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_6",
+      "name": "С/банка КБ204-В66А-250, крышка «твист-офф» Ф 66",
+      "quantity": "4626",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_7",
+      "name": "С/банка КБ6-В 66А-350, крышка «твист-офф» Ф 66 СТО 00287355-002-2010",
+      "quantity": "3000 (евро паллет)",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_8",
+      "name": "С/банка КБ46-В66А-350, крышка «твист-офф» Ф 66 СТО 00287355-002-2010",
+      "quantity": "3876",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_9",
+      "name": "С/банка КБ69-В66А-350, крышка «твист-офф» Ф 66 СТО 00287355-002-2010",
+      "quantity": "3264",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_10",
+      "name": "С/банка КБ212-В82А-350, крышка «твист-офф» Ф 82",
+      "quantity": "2990",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_11",
+      "name": "С/банка КБ140-В82А-390, крышка «твист-офф» Ф 82 СТО 00287355-002-2010",
+      "quantity": "2860",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_12",
+      "name": "С/банка КБ165-В82Б-440, крышка «твист-офф» Ф 82 СТО 00287355-002-2010",
+      "quantity": "2340 (евро паллет)",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_13",
+      "name": "С/банка КБ203-В82Б-440, крышка «твист-офф» Ф 82",
+      "quantity": "2873",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_14",
+      "name": "С/банка КБ64-В66А-480, крышка «твист-офф» Ф 66 СТО 00287355-002-2010",
+      "quantity": "2760",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_15",
+      "name": "С/банка КБ14-В66А-500, крышка «твист-офф» Ф 66 СТО 00287355-002-2010",
+      "quantity": "2535",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_16",
+      "name": "С/банка КБ70-В66А-500, крышка «твист-офф» Ф 66 СТО 00287355-002-2010",
+      "quantity": "2808",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_17",
+      "name": "С/банка КБ33-В66А-500, крышка «твист-офф» Ф 66 СТО 00287355-002-2010",
+      "quantity": "2250",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_18",
+      "name": "С/банка КБ31-В82А-500, крышка «твист-офф» Ф 82 СТО 00287355-002-2010",
+      "quantity": "2873",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_19",
+      "name": "С/банка КБ94-111-5-1-82-500-Амфора, крышка «твист-офф» Ф 82 СТО 00287355-002-2010",
+      "quantity": "2540",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_20",
+      "name": "С/банка КБ168-В82А-510, крышка «твист-офф» Ф 82 СТО 00287355-002-2010",
+      "quantity": "2704",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_21",
+      "name": "С/банка КБ168-В82А-510, крышка «твист-офф» Ф 82 СТО 00287355-002-2010",
+      "quantity": "2704",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_22",
+      "name": "С/банка КБ22-В82А-650, крышка «твист-офф» Ф 82 СТО 00287355-002-2010",
+      "quantity": "2366",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_23",
+      "name": "С/банка КБ107-82-1-670, крышка «твист-офф» Ф 82 СТО 00287355-002-2010",
+      "quantity": "2160 (евро паллет)",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_24",
+      "name": "С/банка КБ209-82-1-670, крышка «твист-офф» Ф 82",
+      "quantity": "2100",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_25",
+      "name": "С/банка КБ3-В82А-720, крышка «твист-офф» Ф 82 СТО 00287355-002-2010",
+      "quantity": "1568 (евро паллет)",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_26",
+      "name": "С/банка КБ166-В82А-900, крышка «твист-офф» Ф 82 СТО 00287355-002-2010",
+      "quantity": "1397",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_27",
+      "name": "С/банка КБ30-В82А-950, крышка «твист-офф» Ф 82 СТО 00287355-002-2010",
+      "quantity": "1248 (евро паллет)",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_28",
+      "name": "С/банка КБ80-111-7-100-950, крышка «твист-офф» Ф 100 СТО 00287355-002-2010",
+      "quantity": "1470",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_29",
+      "name": "С/банка КБ150-В89А-1415, крышка «твист-офф» Ф 89 СТО 00287355-002-2010",
+      "quantity": "1079",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_30",
+      "name": "С/банка КБ167-В82А-1500, крышка «твист-офф» Ф 82 СТО 00287355-002-2010",
+      "quantity": "996",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_31",
+      "name": "С/банка КБ1-В89А-1500, крышка «твист-офф» Ф 89 СТО 00287355-002-2010",
+      "quantity": "950",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_32",
+      "name": "С/банка КБ79-111-7-100-1500, крышка «твист-офф» Ф 100 СТО 00287355-002-2010",
+      "quantity": "918",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_33",
+      "name": "С/банка КБ211-В82А-1800, крышка «твист-офф» Ф 82 СТО 00287355-002-2010",
+      "quantity": "792",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_34",
+      "name": "С/банка КБ20-В100А-2000, крышка «твист-офф» Ф 100 СТО 00287355-002-2010",
+      "quantity": "540",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_35",
+      "name": "С/банка КБ169-В82А-3000, крышка «твист-офф» Ф 82 СТО 00287355-002-2010",
+      "quantity": "486",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "jar_tvist",
+      "id": "2_36",
+      "name": "С/банка КБ2-В100А-3000, крышка «твист-офф» Ф 100 СТО 00287355-002-2010",
+      "quantity": "486",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "glass_bottle",
+      "id": "3_1",
+      "name": "С/бутылка К48-В43А-500, крышка «твист- офф» Ф 43",
+      "quantity": "2106",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "glass_bottle",
+      "id": "3_2",
+      "name": "С/бутылка К229-В43А-1000, крышка «твист-офф» Ф 43",
+      "quantity": "1296",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "glass_bottle",
+      "id": "3_3",
+      "name": "С/бутылка КБ38- В43А- 310, крышка «твист-офф» Ф 43",
+      "quantity": "3888",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "glass_bottle",
+      "id": "3_4",
+      "name": "С/бутылка К121- В43А- 250, крышка «твист-офф» Ф 43",
+      "quantity": "4180",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "glass_bottle",
+      "id": "3_5",
+      "name": "С/бутылка К114-В43А-750, крышка «твист-офф» Ф 43",
+      "quantity": "1632",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "glass_bottle",
+      "id": "3_6",
+      "name": "С/бутылка К127-В43А-1000, крышка «твист-офф» Ф 43",
+      "quantity": "1152",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "glass_bottle",
+      "id": "3_7",
+      "name": "С/бутылка К266-111-4-66-1-1000, крышка «твист-офф» Ф 66",
+      "quantity": "1008",
+      "price": "Цена договорная"
+    },
+    {
+      "catalogId": "glass_bottle",
+      "id": "3_8",
+      "name": "С/бутылка К267-111-4-66-1-1000, крышка «твист-офф» Ф 66",
+      "quantity": "1008",
+      "price": "Цена договорная"
+    }
+  ],
+  "product": [
+    {
+      "id": 0,
+      "name": "1-58-250",
+      "catalogId": "jar_sko",
+      "weight": "128 гр",
+      "height": "99 мм",
+      "diameter": "70 мм",
+      "finish": {
+        "type": 58,
+        "description": "58 мм"
+      },
+      "capacity": 250,
+      "packaging_options": {
+        "euro_pallet": 4515,
+        "packet": 60
+      },
+      "img": {
+        "alt": "Product 0",
+        "src": "/catalog/jar_sko/glass_jar_1-58-250.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 0",
+        "src": "/catalog/product_img/0.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 1,
+      "name": "1-82-500",
+      "catalogId": "jar_sko",
+      "weight": "235 гр",
+      "height": "118 мм",
+      "diameter": "89 мм",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "capacity": 500,
+      "packaging_options": {
+        "euro_pallet": 3212,
+        "packet": 36
+      },
+      "img": {
+        "alt": "Product 1",
+        "src": "/catalog/jar_sko/glass_jar_1-82-500.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 1",
+        "src": "/catalog/product_img/1.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 2,
+      "name": "1-82-500 Амфора",
+      "catalogId": "jar_sko",
+      "weight": "260 гр",
+      "height": "103,5 мм",
+      "diameter": "100 мм",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "capacity": 500,
+      "packaging_options": {
+        "packet": 12
+      },
+      "img": {
+        "alt": "Product 2",
+        "src": "/catalog/jar_sko/glass_jar_1-82-500_amfora.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 2",
+        "src": "/catalog/product_img/2.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 3,
+      "name": "1-82-650",
+      "weight": "285 гр",
+      "height": "140 мм",
+      "diameter": "88 мм",
+      "catalogId": "jar_sko",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "capacity": 650,
+      "packaging_options": {
+        "euro_pallet": 1820,
+        "packet": 36
+      },
+      "img": {
+        "alt": "Product 3",
+        "src": "/catalog/jar_sko/glass_jar_1-82-650.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 3",
+        "src": "/catalog/product_img/3.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 4,
+      "name": "КБ63-1-82-950",
+      "catalogId": "jar_sko",
+      "weight": "395 гр",
+      "height": "164 мм",
+      "diameter": "82 мм",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "capacity": 950,
+      "packaging_options": {
+        "euro_pallet": 1651,
+        "packet": 28
+      },
+      "img": {
+        "alt": "Product 4",
+        "src": "/catalog/jar_sko/glass_jar_КБ63-1-82-950.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 4",
+        "src": "/catalog/product_img/4.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 5,
+      "name": "КБ28-1-82-1500",
+      "catalogId": "jar_sko",
+      "weight": "560 гр",
+      "height": "195 мм",
+      "diameter": "115 мм",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "capacity": 1500,
+      "packaging_options": {
+        "euro_pallet": 1000,
+        "packet": 18
+      },
+      "img": {
+        "alt": "Product 5",
+        "src": "/catalog/jar_sko/glass_jar_КБ28-1-82-1500.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 5",
+        "src": "/catalog/product_img/5.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 6,
+      "name": "1-82-2000",
+      "catalogId": "jar_sko",
+      "weight": "600 гр",
+      "height": "206 мм",
+      "diameter": "132 мм",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "capacity": 2000,
+      "packaging_options": {
+        "euro_pallet": 700,
+        "packet": 15
+      },
+      "img": {
+        "alt": "Product 6",
+        "src": "/catalog/jar_sko/glass_jar_1-82-2000.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 6",
+        "src": "/catalog/product_img/6.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 7,
+      "name": "1-82-3000",
+      "weight": "850 гр",
+      "height": "236 мм",
+      "diameter": "154 мм",
+      "catalogId": "jar_sko",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "capacity": 3000,
+      "packaging_options": {
+        "euro_pallet": 441,
+        "packet": 12
+      },
+      "img": {
+        "alt": "Product 7",
+        "src": "/catalog/jar_sko/glass_jar_1-82-3000.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 7",
+        "src": "/catalog/product_img/7.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 8,
+      "name": "КБ87-В48А-120",
+      "catalogId": "jar_tvist",
+      "weight": "110 гр",
+      "height": "85 мм",
+      "diameter": "53 мм",
+      "finish": {
+        "type": 48,
+        "description": "48 мм"
+      },
+      "capacity": 120,
+      "packaging_options": {
+        "euro_pallet": 6552
+      },
+      "img": {
+        "alt": "Product 8",
+        "src": "/catalog/jar_tvist/glass_jar_КБ87-В48А-120.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 8",
+        "src": "/catalog/product_img/8.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 9,
+      "name": "КБ110-В53В-190-ДП",
+      "catalogId": "jar_tvist",
+      "weight": "128 гр",
+      "height": "100,5 мм",
+      "diameter": "61,8 мм",
+      "finish": {
+        "type": 53,
+        "description": "53 мм"
+      },
+      "capacity": 190,
+      "packaging_options": {
+        "euro_pallet": 5415
+      },
+      "img": {
+        "alt": "Product 9",
+        "src": "/catalog/jar_tvist/glass_jar_КБ110-В53В-190-ДП.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 9",
+        "src": "/catalog/product_img/9.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 10,
+      "name": "КБ13-В58А-200",
+      "catalogId": "jar_tvist",
+      "weight": "128 гр",
+      "height": "100 мм",
+      "diameter": "60 мм",
+      "finish": {
+        "type": 58,
+        "description": "58 мм"
+      },
+      "capacity": 200,
+      "packaging_options": {
+        "euro_pallet": 5415,
+        "packet": 78
+      },
+      "img": {
+        "alt": "Product 10",
+        "src": "/catalog/jar_tvist/glass_jar_КБ13-В58А-200.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 10",
+        "src": "/catalog/product_img/10.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 11,
+      "name": "КБ204-В66Б-250",
+      "catalogId": "jar_tvist",
+      "weight": "150 гр",
+      "height": "103 мм",
+      "diameter": "71,5 мм",
+      "finish": {
+        "type": 66,
+        "description": "66 мм"
+      },
+      "capacity": 250,
+      "packaging_options": {
+        "euro_pallet": 4883,
+        "packet": 60
+      },
+      "img": {
+        "alt": "Product 11",
+        "src": "/catalog/jar_tvist/glass_jar_КБ204-В66Б-250.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 11",
+        "src": "/catalog/product_img/11.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 12,
+      "name": "КБ152-В66А-250",
+      "catalogId": "jar_tvist",
+      "weight": "155 гр",
+      "height": "81 мм",
+      "diameter": "72 мм",
+      "finish": {
+        "type": 66,
+        "description": "66 мм"
+      },
+      "capacity": 250,
+      "packaging_options": {
+        "euro_pallet": 4704,
+        "packet": 55
+      },
+      "img": {
+        "alt": "Product 12",
+        "src": "/catalog/jar_tvist/glass_jar_КБ152-В66А-250.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 12",
+        "src": "/catalog/product_img/12.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 13,
+      "name": "КБ149-В66А-250",
+      "catalogId": "jar_tvist",
+      "weight": "133 гр",
+      "height": "90,5 мм",
+      "diameter": "72 мм",
+      "finish": {
+        "type": 66,
+        "description": "66 мм"
+      },
+      "capacity": 250,
+      "packaging_options": {
+        "euro_pallet": 5397,
+        "packet": 60
+      },
+      "img": {
+        "alt": "Product 13",
+        "src": "/catalog/jar_tvist/glass_jar_КБ149-В66А-250.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 13",
+        "src": "/catalog/product_img/13.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 14,
+      "name": "КБ7-В58А-250",
+      "catalogId": "jar_tvist",
+      "weight": "128 гр",
+      "height": "100 мм",
+      "diameter": "71 мм",
+      "finish": {
+        "type": 58,
+        "description": "58 мм"
+      },
+      "capacity": 250,
+      "packaging_options": {
+        "euro_pallet": 4515,
+        "packet": 60
+      },
+      "img": {
+        "alt": "Product 14",
+        "src": "/catalog/jar_tvist/glass_jar_КБ7-В58А-250.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 14",
+        "src": "/catalog/product_img/14.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 15,
+      "name": "КБ69-В66А-350",
+      "catalogId": "jar_tvist",
+      "weight": "210 гр",
+      "height": "124 мм",
+      "diameter": "79 мм",
+      "finish": {
+        "type": 66,
+        "description": "66 мм"
+      },
+      "capacity": 350,
+      "packaging_options": {
+        "euro_pallet": 3264,
+        "packet": 40
+      },
+      "img": {
+        "alt": "Product 15",
+        "src": "/catalog/jar_tvist/glass_jar_КБ69-В66А-350.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 15",
+        "src": "/catalog/product_img/15.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 16,
+      "name": "КБ212-В82Б-350",
+      "catalogId": "jar_tvist",
+      "weight": "190 гр",
+      "height": "88,2 мм",
+      "diameter": "87 мм",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "capacity": 350,
+      "packaging_options": {
+        "euro_pallet": 2990,
+        "packet": 40
+      },
+      "img": {
+        "alt": "Product 16",
+        "src": "/catalog/jar_tvist/glass_jar_КБ212-В82Б-350.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 16",
+        "src": "/catalog/product_img/16.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 17,
+      "name": "КБ6-В66А-350",
+      "catalogId": "jar_tvist",
+      "weight": "190 гр",
+      "height": "125 мм",
+      "diameter": "72 мм",
+      "finish": {
+        "type": 66,
+        "description": "66 мм"
+      },
+      "capacity": 350,
+      "packaging_options": {
+        "euro_pallet": 3000,
+        "packet": 55
+      },
+      "img": {
+        "alt": "Product 17",
+        "src": "/catalog/jar_tvist/glass_jar_КБ6-В66А-350.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 17",
+        "src": "/catalog/product_img/17.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 18,
+      "name": "КБ215-В82А-370 Квадрат",
+      "catalogId": "jar_tvist",
+      "weight": "250 гр",
+      "height": "73,5 мм",
+      "diameter": "88 мм",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "capacity": 370,
+      "packaging_options": {
+        "euro_pallet": 2860,
+        "packet": 40
+      },
+      "img": {
+        "alt": "Product 18",
+        "src": "/catalog/jar_tvist/glass_jar_КБ215-В82А-370_Квадрат.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 18",
+        "src": "/catalog/product_img/18.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 19,
+      "name": "КБ140-В82Б-390 Кубик",
+      "catalogId": "jar_tvist",
+      "weight": "225 гр",
+      "height": "88,5 мм",
+      "diameter": "86,4 мм",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "capacity": 390,
+      "packaging_options": {
+        "euro_pallet": 2860,
+        "packet": 40
+      },
+      "img": {
+        "alt": "Product 19",
+        "src": "/catalog/jar_tvist/glass_jar_КБ140-В82Б-390_Кубик.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 19",
+        "src": "/catalog/product_img/19.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 20,
+      "name": "КБ203-В82Б-440",
+      "catalogId": "jar_tvist",
+      "weight": "235 гр",
+      "height": "118 мм",
+      "diameter": "87 мм",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "capacity": 440,
+      "packaging_options": {
+        "euro_pallet": 2873,
+        "packet": 36
+      },
+      "img": {
+        "alt": "Product 20",
+        "src": "/catalog/jar_tvist/glass_jar_КБ203-В82Б-440.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 20",
+        "src": "/catalog/product_img/20.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 21,
+      "name": "КБ165-В82Б-440",
+      "catalogId": "jar_tvist",
+      "weight": "250 гр",
+      "height": "104,5 мм",
+      "diameter": "89,7 мм",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "capacity": 440,
+      "packaging_options": {
+        "euro_pallet": 2340,
+        "packet": 36
+      },
+      "img": {
+        "alt": "Product 21",
+        "src": "/catalog/jar_tvist/glass_jar_КБ165-В82Б-440.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 21",
+        "src": "/catalog/product_img/21.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 22,
+      "name": "КБ101-В66А-475",
+      "catalogId": "jar_tvist",
+      "weight": "250 гр",
+      "height": "88,2 мм",
+      "diameter": "87 мм",
+      "finish": {
+        "type": 66,
+        "description": "66 мм"
+      },
+      "capacity": 475,
+      "packaging_options": {
+        "euro_pallet": 2990,
+        "packet": 40
+      },
+      "img": {
+        "alt": "Product 22",
+        "src": "/catalog/jar_tvist/glass_jar_КБ101-В66А-475.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 22",
+        "src": "/catalog/product_img/22.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 23,
+      "name": "КБ64-В66А-480",
+      "catalogId": "jar_tvist",
+      "weight": "235 гр",
+      "height": "127 мм",
+      "diameter": "84 мм",
+      "finish": {
+        "type": 66,
+        "description": "66 мм"
+      },
+      "capacity": 480,
+      "packaging_options": {
+        "euro_pallet": 2944,
+        "packet": 36
+      },
+      "img": {
+        "alt": "Product 23",
+        "src": "/catalog/jar_tvist/glass_jar_КБ64-В66А-480.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 23",
+        "src": "/catalog/product_img/23.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 24,
+      "name": "КБ70-В66А-500",
+      "catalogId": "jar_tvist",
+      "weight": "250 гр",
+      "height": "160 мм",
+      "diameter": "74 мм",
+      "finish": {
+        "type": 66,
+        "description": "66 мм"
+      },
+      "capacity": 500,
+      "packaging_options": {
+        "euro_pallet": 2808,
+        "packet": 50
+      },
+      "img": {
+        "alt": "Product 24",
+        "src": "/catalog/jar_tvist/glass_jar_КБ70-В66А-500.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 24",
+        "src": "/catalog/product_img/24.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 25,
+      "name": "КБ94-III-5-82-1-500",
+      "catalogId": "jar_tvist",
+      "weight": "260 гр",
+      "height": "103,5 мм",
+      "diameter": "100 мм",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "capacity": 500,
+      "packaging_options": {
+        "euro_pallet": 2540,
+        "packet": 32
+      },
+      "img": {
+        "alt": "Product 25",
+        "src": "/catalog/jar_tvist/glass_jar_КБ94-III-5-82-1-500.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 25",
+        "src": "/catalog/product_img/25.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 26,
+      "name": "КБ237-В82А-500",
+      "catalogId": "jar_tvist",
+      "weight": "230 гр",
+      "height": "112 мм",
+      "diameter": "87,5 мм",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "capacity": 500,
+      "packaging_options": {
+        "euro_pallet": 3042,
+        "packet": 36
+      },
+      "img": {
+        "alt": "Product 26",
+        "src": "/catalog/jar_tvist/glass_jar_КБ237-В82А-500.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 26",
+        "src": "/catalog/product_img/26.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 27,
+      "name": "II-В82А-640 Квадрат",
+      "catalogId": "jar_tvist",
+      "weight": "300 гр",
+      "height": "140 мм",
+      "diameter": "78 мм",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "capacity": 640,
+      "packaging_options": {
+        "packet": 12
+      },
+      "img": {
+        "alt": "Product 27",
+        "src": "/catalog/jar_tvist/glass_jar_II-В82А-640_Квадрат.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 27",
+        "src": "/catalog/product_img/27.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 28,
+      "name": "КБ22-В82А-650",
+      "catalogId": "jar_tvist",
+      "weight": "290 гр",
+      "height": "142 мм",
+      "diameter": "88,4 мм",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "capacity": 650,
+      "packaging_options": {
+        "euro_pallet": 2366,
+        "packet": 36
+      },
+      "img": {
+        "alt": "Product 28",
+        "src": "/catalog/jar_tvist/glass_jar_КБ22-В82А-650.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 28",
+        "src": "/catalog/product_img/28.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 29,
+      "name": "КБ209-В82А-670",
+      "catalogId": "jar_tvist",
+      "weight": "325 гр",
+      "height": "145 мм",
+      "diameter": "92 мм",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "capacity": 670,
+      "packaging_options": {
+        "euro_pallet": 2100,
+        "packet": 32
+      },
+      "img": {
+        "alt": "Product 29",
+        "src": "/catalog/jar_tvist/glass_jar_КБ209-В82А-670.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 29",
+        "src": "/catalog/product_img/29.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 30,
+      "name": "КБ107-В82А-670",
+      "catalogId": "jar_tvist",
+      "weight": "305 гр",
+      "height": "135,5 мм",
+      "diameter": "95 мм",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "capacity": 670,
+      "packaging_options": {
+        "euro_pallet": 2016,
+        "packet": 32
+      },
+      "img": {
+        "alt": "Product 30",
+        "src": "/catalog/jar_tvist/glass_jar_КБ107-В82А-670.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 30",
+        "src": "/catalog/product_img/30.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 31,
+      "name": "А141.III-2-82-720-0 Кубышка",
+      "catalogId": "jar_tvist",
+      "weight": "340 гр",
+      "height": "130 мм",
+      "diameter": "98 мм",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "capacity": 720,
+      "packaging_options": {
+        "packet": 12
+      },
+      "img": {
+        "alt": "Product 31",
+        "src": "/catalog/jar_tvist/glass_jar_А141.III-2-82-720-0_Кубышка.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 31",
+        "src": "/catalog/product_img/31.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 32,
+      "name": "А124-82-720 Фонарик",
+      "catalogId": "jar_tvist",
+      "weight": "330 гр",
+      "height": "128 мм",
+      "diameter": "109,5 мм",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "capacity": 720,
+      "packaging_options": {
+        "packet": 12
+      },
+      "img": {
+        "alt": "Product 32",
+        "src": "/catalog/jar_tvist/glass_jar_А124-82-720_Фонарик.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 32",
+        "src": "/catalog/product_img/32.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 33,
+      "name": "КБ3-В82А-720",
+      "catalogId": "jar_tvist",
+      "weight": "325 гр",
+      "height": "143,5 мм",
+      "diameter": "95 мм",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "capacity": 720,
+      "packaging_options": {
+        "euro_pallet": 2016,
+        "packet": 32
+      },
+      "img": {
+        "alt": "Product 33",
+        "src": "/catalog/jar_tvist/glass_jar_КБ3-В82А-720.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 33",
+        "src": "/catalog/product_img/33.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 34,
+      "name": "КБ166-В82А-900",
+      "catalogId": "jar_tvist",
+      "weight": "420 гр",
+      "height": "165 мм",
+      "diameter": "99,2 мм",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "capacity": 900,
+      "packaging_options": {
+        "euro_pallet": 1397,
+        "packet": 28
+      },
+      "img": {
+        "alt": "Product 34",
+        "src": "/catalog/jar_tvist/glass_jar_КБ166-В82А-900.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 34",
+        "src": "/catalog/product_img/34.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 35,
+      "name": "КБ80-III-7-100-950",
+      "catalogId": "jar_tvist",
+      "weight": "405 гр",
+      "height": "144 мм",
+      "diameter": "108 мм",
+      "finish": {
+        "type": 100,
+        "description": "100 мм"
+      },
+      "capacity": 950,
+      "packaging_options": {
+        "euro_pallet": 1575,
+        "packet": 24
+      },
+      "img": {
+        "alt": "Product 35",
+        "src": "/catalog/jar_tvist/glass_jar_КБ80-III-7-100-950.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 35",
+        "src": "/catalog/product_img/35.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 36,
+      "name": "КБ30-В82А-950",
+      "catalogId": "jar_tvist",
+      "weight": "400 гр",
+      "height": "170 мм",
+      "diameter": "100 мм",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "capacity": 950,
+      "packaging_options": {
+        "euro_pallet": 1248,
+        "packet": 28
+      },
+      "img": {
+        "alt": "Product 36",
+        "src": "/catalog/jar_tvist/glass_jar_КБ30-В82А-950.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 36",
+        "src": "/catalog/product_img/36.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 37,
+      "name": "КБ150-В89А-1415",
+      "catalogId": "jar_tvist",
+      "weight": "520 гр",
+      "height": "159 мм",
+      "diameter": "124 мм",
+      "finish": {
+        "type": 89,
+        "description": "89 мм"
+      },
+      "capacity": 1415,
+      "packaging_options": {
+        "euro_pallet": 1079,
+        "packet": 18
+      },
+      "img": {
+        "alt": "Product 37",
+        "src": "/catalog/jar_tvist/glass_jar_КБ150-В89А-1415.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 37",
+        "src": "/catalog/product_img/37.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 38,
+      "name": "A118-100-1500 Фонарик",
+      "catalogId": "jar_tvist",
+      "weight": "540 гр",
+      "height": "159 мм",
+      "diameter": "141 мм",
+      "finish": {
+        "type": 100,
+        "description": "100 мм"
+      },
+      "capacity": 1500,
+      "packaging_options": {
+        "packet": 6
+      },
+      "img": {
+        "alt": "Product 38",
+        "src": "/catalog/jar_tvist/glass_jar_A118-100-1500_Фонарик.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 38",
+        "src": "/catalog/product_img/38.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 39,
+      "name": "A132.III-2-82-1500 Кубышка",
+      "catalogId": "jar_tvist",
+      "weight": "510 гр",
+      "height": "194 мм",
+      "diameter": "112 мм",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "capacity": 1500,
+      "packaging_options": {
+        "packet": 6
+      },
+      "img": {
+        "alt": "Product 39",
+        "src": "/catalog/jar_tvist/glass_jar_A132.III-2-82-1500_Кубышка.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 39",
+        "src": "/catalog/product_img/39.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 40,
+      "name": "КБ1-В89А-1500",
+      "catalogId": "jar_tvist",
+      "weight": "580 гр",
+      "height": "205 мм",
+      "diameter": "117 мм",
+      "finish": {
+        "type": 89,
+        "description": "89 мм"
+      },
+      "capacity": 1500,
+      "packaging_options": {
+        "euro_pallet": 950,
+        "packet": 18
+      },
+      "img": {
+        "alt": "Product 40",
+        "src": "/catalog/jar_tvist/glass_jar_КБ1-В89А-1500.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 40",
+        "src": "/catalog/product_img/40.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 41,
+      "name": "КБ167-В82А-1500",
+      "catalogId": "jar_tvist",
+      "weight": "570 гр",
+      "height": "181,5 мм",
+      "diameter": "122,7 мм",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "capacity": 1500,
+      "packaging_options": {
+        "euro_pallet": 996,
+        "packet": 18
+      },
+      "img": {
+        "alt": "Product 41",
+        "src": "/catalog/jar_tvist/glass_jar_КБ167-В82А-1500.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 41",
+        "src": "/catalog/product_img/41.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 42,
+      "name": "КБ79-III-7-100-1500",
+      "catalogId": "jar_tvist",
+      "weight": "600 гр",
+      "height": "206 мм",
+      "diameter": "113 мм",
+      "finish": {
+        "type": 100,
+        "description": "100 мм"
+      },
+      "capacity": 1500,
+      "packaging_options": {
+        "euro_pallet": 918,
+        "packet": 18
+      },
+      "img": {
+        "alt": "Product 42",
+        "src": "/catalog/jar_tvist/glass_jar_КБ79-III-7-100-1500.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 42",
+        "src": "/catalog/product_img/42.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 43,
+      "name": "КБ211-В82А-1800",
+      "catalogId": "jar_tvist",
+      "weight": "655 гр",
+      "height": "236 мм",
+      "diameter": "118 мм",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "capacity": 1800,
+      "packaging_options": {
+        "euro_pallet": 792,
+        "packet": 18
+      },
+      "img": {
+        "alt": "Product 43",
+        "src": "/catalog/jar_tvist/glass_jar_КБ211-В82А-1800.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 43",
+        "src": "/catalog/product_img/43.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 44,
+      "name": "КБ20-В100А-2000",
+      "catalogId": "jar_tvist",
+      "weight": "660 гр",
+      "height": "207 мм",
+      "diameter": "131 мм",
+      "finish": {
+        "type": 100,
+        "description": "100 мм"
+      },
+      "capacity": 2000,
+      "packaging_options": {
+        "euro_pallet": 700,
+        "packet": 15
+      },
+      "img": {
+        "alt": "Product 44",
+        "src": "/catalog/jar_tvist/glass_jar_КБ20-В100А-2000.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 44",
+        "src": "/catalog/product_img/44.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 45,
+      "name": "КБ169-В82А-3000",
+      "catalogId": "jar_tvist",
+      "weight": "905 гр",
+      "height": "235 мм",
+      "diameter": "152,4 мм",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "capacity": 3000,
+      "packaging_options": {
+        "euro_pallet": 486,
+        "packet": 12
+      },
+      "img": {
+        "alt": "Product 45",
+        "src": "/catalog/jar_tvist/glass_jar_КБ169-В82А-3000.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 45",
+        "src": "/catalog/product_img/45.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 46,
+      "name": "КБ2-В100А-3000",
+      "catalogId": "jar_tvist",
+      "weight": "977 гр",
+      "height": "207 мм",
+      "diameter": "131 мм",
+      "finish": {
+        "type": 100,
+        "description": "100 мм"
+      },
+      "capacity": 3000,
+      "packaging_options": {
+        "euro_pallet": 486,
+        "packet": 12
+      },
+      "img": {
+        "alt": "Product 46",
+        "src": "/catalog/jar_tvist/glass_jar_КБ2-В100А-3000.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 46",
+        "src": "/catalog/product_img/46.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 47,
+      "name": "КБ249-В100А-3100",
+      "catalogId": "jar_tvist",
+      "weight": "880 гр",
+      "height": "242 мм",
+      "diameter": "145 мм",
+      "finish": {
+        "type": 100,
+        "description": "100 мм"
+      },
+      "capacity": 3100,
+      "packaging_options": {
+        "euro_pallet": 486,
+        "packet": 12
+      },
+      "img": {
+        "alt": "Product 47",
+        "src": "/catalog/jar_tvist/glass_jar_КБ249-В100А-3100.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 47",
+        "src": "/catalog/product_img/47.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 48,
+      "name": "К280-В43А-250",
+      "catalogId": "glass_bottle",
+      "weight": "175 гр",
+      "height": "166,5 мм",
+      "diameter": "60 мм",
+      "finish": {
+        "type": 43,
+        "description": "43 мм"
+      },
+      "capacity": 250,
+      "packaging_options": {
+        "euro_pallet": 4081,
+        "packet": 50
+      },
+      "img": {
+        "alt": "Product 48",
+        "src": "/catalog/glass_bottle/glass_bottle_К280-В43А-250.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 48",
+        "src": "/catalog/product_img/48.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 49,
+      "name": "К121-В43А-250",
+      "catalogId": "glass_bottle",
+      "weight": "175 гр",
+      "height": "145 мм",
+      "diameter": "60 мм",
+      "finish": {
+        "type": 43,
+        "description": "43 мм"
+      },
+      "capacity": 250,
+      "packaging_options": {
+        "euro_pallet": 4081,
+        "packet": 50
+      },
+      "img": {
+        "alt": "Product 49",
+        "src": "/catalog/glass_bottle/glass_bottle_К121-В43А-250.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 49",
+        "src": "/catalog/product_img/49.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 50,
+      "name": "КБ38-В43А-310",
+      "catalogId": "glass_bottle",
+      "weight": "215 гр",
+      "height": "165 мм",
+      "diameter": "64 мм",
+      "finish": {
+        "type": 43,
+        "description": "43 мм"
+      },
+      "capacity": 310,
+      "packaging_options": {
+        "euro_pallet": 3888,
+        "packet": 50
+      },
+      "img": {
+        "alt": "Product 50",
+        "src": "/catalog/glass_bottle/glass_bottle_КБ38-В43А-310.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 50",
+        "src": "/catalog/product_img/50.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 51,
+      "name": "К48-В43А-500",
+      "catalogId": "glass_bottle",
+      "weight": "325 гр",
+      "height": "195 мм",
+      "diameter": "75 мм",
+      "finish": {
+        "type": 43,
+        "description": "43 мм"
+      },
+      "capacity": 500,
+      "packaging_options": {
+        "euro_pallet": 2016,
+        "packet": 36
+      },
+      "img": {
+        "alt": "Product 51",
+        "src": "/catalog/glass_bottle/glass_bottle_К48-В43А-500.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 51",
+        "src": "/catalog/product_img/51.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 52,
+      "name": "К277-В43А-750",
+      "catalogId": "glass_bottle",
+      "weight": "370 гр",
+      "height": "230 мм",
+      "diameter": "83,5 мм",
+      "finish": {
+        "type": 43,
+        "description": "43 мм"
+      },
+      "capacity": 750,
+      "packaging_options": {
+        "euro_pallet": 1656,
+        "packet": 36
+      },
+      "img": {
+        "alt": "Product 52",
+        "src": "/catalog/glass_bottle/glass_bottle_К277-В43А-750.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 52",
+        "src": "/catalog/product_img/52.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 53,
+      "name": "К114-В43А-750",
+      "catalogId": "glass_bottle",
+      "weight": "410 гр",
+      "height": "225 мм",
+      "diameter": "81,5 мм",
+      "finish": {
+        "type": 43,
+        "description": "43 мм"
+      },
+      "capacity": 750,
+      "packaging_options": {
+        "euro_pallet": 1656,
+        "packet": 36
+      },
+      "img": {
+        "alt": "Product 53",
+        "src": "/catalog/glass_bottle/glass_bottle_К114-В43А-750.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 53",
+        "src": "/catalog/product_img/53.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 54,
+      "name": "К229-В43А-1000",
+      "catalogId": "glass_bottle",
+      "weight": "410 гр",
+      "height": "230 мм",
+      "diameter": "94 мм",
+      "finish": {
+        "type": 43,
+        "description": "43 мм"
+      },
+      "capacity": 1000,
+      "packaging_options": {
+        "euro_pallet": 1296,
+        "packet": 28
+      },
+      "img": {
+        "alt": "Product 54",
+        "src": "/catalog/glass_bottle/glass_bottle_К229-В43А-1000.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 54",
+        "src": "/catalog/product_img/54.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 55,
+      "name": "К127-В43А-1000",
+      "catalogId": "glass_bottle",
+      "weight": "495 гр",
+      "height": "250 мм",
+      "diameter": "95 мм",
+      "finish": {
+        "type": 43,
+        "description": "43 мм"
+      },
+      "capacity": 1000,
+      "packaging_options": {
+        "euro_pallet": 1152,
+        "packet": 28
+      },
+      "img": {
+        "alt": "Product 55",
+        "src": "/catalog/glass_bottle/glass_bottle_К127-В43А-1000.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 55",
+        "src": "/catalog/product_img/55.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 56,
+      "name": "Тип-72, 0,375 л, оливковая",
+      "catalogId": "glass_bottle",
+      "weight": "330 гр",
+      "height": "239 мм",
+      "diameter": "62 мм",
+      "finish": {
+        "type": 1000,
+        "description": "винт"
+      },
+      "capacity": 375,
+      "packaging_options": {
+        "euro_pallet": 1668
+      },
+      "img": {
+        "alt": "Product 56",
+        "src": "/catalog/glass_bottle/glass_bottle_Тип-72_0,375л_оливковая.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 56",
+        "src": "/catalog/product_img/56.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 57,
+      "name": "Тип-70, 0,7 л, оливковая",
+      "catalogId": "glass_bottle",
+      "weight": "490 гр",
+      "height": "320 мм",
+      "diameter": "72 мм",
+      "finish": {
+        "type": 1001,
+        "description": "под корковую пробку"
+      },
+      "capacity": 700,
+      "packaging_options": {
+        "euro_pallet": 1140
+      },
+      "img": {
+        "alt": "Product 57",
+        "src": "/catalog/glass_bottle/glass_bottle_Тип-70_0,7л_оливковая.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 57",
+        "src": "/catalog/product_img/57.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 58,
+      "name": "Тип-139, 0,7 л, оливковая",
+      "catalogId": "glass_bottle",
+      "weight": "430 гр",
+      "height": "295 мм",
+      "diameter": "74 мм",
+      "finish": {
+        "type": 1000,
+        "description": "винт"
+      },
+      "capacity": 700,
+      "packaging_options": {
+        "euro_pallet": 1302
+      },
+      "img": {
+        "alt": "Product 58",
+        "src": "/catalog/glass_bottle/glass_bottle_Тип-139_0,7л_оливковая.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 58",
+        "src": "/catalog/product_img/58.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 59,
+      "name": "Тип-28, 0,75 л, оливковая",
+      "catalogId": "glass_bottle",
+      "weight": "810 гр",
+      "height": "306 мм",
+      "diameter": "85 мм",
+      "finish": {
+        "type": 1001,
+        "description": "под корковую пробку"
+      },
+      "capacity": 750,
+      "packaging_options": {
+        "euro_pallet": 880
+      },
+      "img": {
+        "alt": "Product 59",
+        "src": "/catalog/glass_bottle/glass_bottle_Тип-28_0,75л_оливковая.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 59",
+        "src": "/catalog/product_img/59.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 60,
+      "name": "Тип-27, 0,75 л, оливковая",
+      "catalogId": "glass_bottle",
+      "weight": "760 гр",
+      "height": "308 мм",
+      "diameter": "81 мм",
+      "finish": {
+        "type": 1001,
+        "description": "под корковую пробку"
+      },
+      "capacity": 750,
+      "packaging_options": {
+        "euro_pallet": 980
+      },
+      "img": {
+        "alt": "Product 60",
+        "src": "/catalog/glass_bottle/glass_bottle_Тип-27_0,75л_оливковая.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 60",
+        "src": "/catalog/product_img/60.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 61,
+      "name": "Тип-16, 0,75 л, оливковая",
+      "catalogId": "glass_bottle",
+      "weight": "735 гр",
+      "height": "303 мм",
+      "diameter": "87 мм",
+      "finish": {
+        "type": 1001,
+        "description": "под корковую пробку"
+      },
+      "capacity": 750,
+      "packaging_options": {
+        "euro_pallet": 894
+      },
+      "img": {
+        "alt": "Product 61",
+        "src": "/catalog/glass_bottle/glass_bottle_Тип-16_0,75л_оливковая.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 61",
+        "src": "/catalog/product_img/61.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 62,
+      "name": "Тип-152, 0,75 л, оливковая",
+      "catalogId": "glass_bottle",
+      "weight": "400 гр",
+      "height": "295 мм",
+      "diameter": "81 мм",
+      "finish": {
+        "type": 1001,
+        "description": "под корковую пробку"
+      },
+      "capacity": 750,
+      "packaging_options": {
+        "euro_pallet": 1176
+      },
+      "img": {
+        "alt": "Product 62",
+        "src": "/catalog/glass_bottle/glass_bottle_Тип-152_оливковая_750мл.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 62",
+        "src": "/catalog/product_img/62.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 63,
+      "name": "Тип-105, 0,75 л, оливковая",
+      "catalogId": "glass_bottle",
+      "weight": "455 гр",
+      "height": "298 мм",
+      "diameter": "76 мм",
+      "finish": {
+        "type": 1000,
+        "description": "винт"
+      },
+      "capacity": 750,
+      "packaging_options": {
+        "euro_pallet": 1080
+      },
+      "img": {
+        "alt": "Product 63",
+        "src": "/catalog/glass_bottle/glass_bottle_Тип-105_оливковая_750мл.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 63",
+        "src": "/catalog/product_img/63.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 64,
+      "name": "Тип-104, 0,75 л, оливковая",
+      "catalogId": "glass_bottle",
+      "weight": "530 гр",
+      "height": "310 мм",
+      "diameter": "74 мм",
+      "finish": {
+        "type": 1001,
+        "description": "под корковую пробку"
+      },
+      "capacity": 750,
+      "packaging_options": {
+        "euro_pallet": 1116
+      },
+      "img": {
+        "alt": "Product 64",
+        "src": "/catalog/glass_bottle/glass_bottle_Тип-104_оливковая_750мл.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 64",
+        "src": "/catalog/product_img/64.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 65,
+      "name": "Тип-104, 0,75 л, бесцветная",
+      "catalogId": "glass_bottle",
+      "weight": "530 гр",
+      "height": "310 мм",
+      "diameter": "74 мм",
+      "finish": {
+        "type": 1001,
+        "description": "под корковую пробку"
+      },
+      "capacity": 750,
+      "packaging_options": {
+        "euro_pallet": 1116
+      },
+      "img": {
+        "alt": "Product 65",
+        "src": "/catalog/glass_bottle/glass_bottle_Тип-104_бесцветная_750мл.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 65",
+        "src": "/catalog/product_img/65.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 66,
+      "name": "Тип-33, 0,75 л, оливковая (тихие вина)",
+      "catalogId": "glass_bottle",
+      "weight": "870 гр",
+      "height": "307 мм",
+      "diameter": "83 мм",
+      "finish": {
+        "type": 1001,
+        "description": "под корковую пробку"
+      },
+      "capacity": 750,
+      "packaging_options": {
+        "euro_pallet": 616
+      },
+      "img": {
+        "alt": "Product 66",
+        "src": "/catalog/glass_bottle/glass_bottle_Тип-33_оливковая_750мл.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 66",
+        "src": "/catalog/product_img/66.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 67,
+      "name": "Тип-45, 0,75 л, оливковая",
+      "catalogId": "glass_bottle",
+      "weight": "515 гр",
+      "height": "299 мм",
+      "diameter": "79 мм",
+      "finish": {
+        "type": 1001,
+        "description": "под корковую пробку"
+      },
+      "capacity": 750,
+      "packaging_options": {
+        "euro_pallet": 960
+      },
+      "img": {
+        "alt": "Product 67",
+        "src": "/catalog/glass_bottle/glass_bottle_Тип-45_оливковая_750мл.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 67",
+        "src": "/catalog/product_img/67.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 68,
+      "name": "Тип-86, 0,75 л, оливковая",
+      "catalogId": "glass_bottle",
+      "weight": "730 гр",
+      "height": "300 мм",
+      "diameter": "91 мм",
+      "finish": {
+        "type": 1001,
+        "description": "под корковую пробку"
+      },
+      "capacity": 750,
+      "packaging_options": {
+        "euro_pallet": 900
+      },
+      "img": {
+        "alt": "Product 68",
+        "src": "/catalog/glass_bottle/glass_bottle_Тип-86_оливковая_750мл.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 68",
+        "src": "/catalog/product_img/68.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 69,
+      "name": "Тип-87, 0,75 л, оливковая (тихие вина)",
+      "catalogId": "glass_bottle",
+      "weight": "695 гр",
+      "height": "300 мм",
+      "diameter": "82 мм",
+      "finish": {
+        "type": 1001,
+        "description": "под корковую пробку"
+      },
+      "capacity": 750,
+      "packaging_options": {
+        "euro_pallet": 624
+      },
+      "img": {
+        "alt": "Product 69",
+        "src": "/catalog/glass_bottle/glass_bottle_Тип-87_оливковая_750мл.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 69",
+        "src": "/catalog/product_img/69.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 70,
+      "name": "Тип-135, 1,5 л, оливковая",
+      "catalogId": "glass_bottle",
+      "weight": "865 гр",
+      "height": "335 мм",
+      "diameter": "99 мм",
+      "finish": {
+        "type": 1001,
+        "description": "под корковую пробку"
+      },
+      "capacity": 1500,
+      "packaging_options": {
+        "euro_pallet": 624
+      },
+      "img": {
+        "alt": "Product 70",
+        "src": "/catalog/glass_bottle/glass_bottle_Тип-135_оливковая_1500мл.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 70",
+        "src": "/catalog/product_img/70.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 71,
+      "name": "Тип-125, 1,5 л, оливковая (игристые вина)",
+      "catalogId": "glass_bottle",
+      "weight": "1340 гр",
+      "height": "340 мм",
+      "diameter": "116,4 мм",
+      "finish": {
+        "type": 1002,
+        "description": "КПШ"
+      },
+      "capacity": 1500,
+      "packaging_options": {
+        "euro_pallet": 380
+      },
+      "img": {
+        "alt": "Product 24",
+        "src": "/catalog/glass_bottle/glass_bottle_Тип-125_оливковая.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 0",
+        "src": "/catalog/product_img/71.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 72,
+      "name": "«твист-офф» Ф58 (красная)",
+      "catalogId": "lid_tvist",
+      "finish": {
+        "type": 58,
+        "description": "58 мм"
+      },
+      "packaging_options": {
+        "box": 1600
+      },
+      "img": {
+        "alt": "Product 72",
+        "src": "/catalog/cap_tvist/cap_Крышка«твист-офф»Ф58_(красная).jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 72",
+        "src": "/catalog/product_img/72.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 73,
+      "name": "«твист-офф» Ф58 (пчелка)",
+      "catalogId": "lid_tvist",
+      "finish": {
+        "type": 58,
+        "description": "58 мм"
+      },
+      "packaging_options": {
+        "box": 1600
+      },
+      "img": {
+        "alt": "Product 73",
+        "src": "/catalog/cap_tvist/cap_Крышка«твист-офф»Ф58_(пчелка).jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 73",
+        "src": "/catalog/product_img/73.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 74,
+      "name": "«твист-офф» Ф66 (красная, черная, зеленая, белая, золото)",
+      "catalogId": "lid_tvist",
+      "finish": {
+        "type": 66,
+        "description": "66 мм"
+      },
+      "packaging_options": {
+        "box": 1250
+      },
+      "img": {
+        "alt": "Product 74",
+        "src": "/catalog/cap_tvist/cap_Крышка«твист-офф»Ф66_(красная).jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 74",
+        "src": "/catalog/product_img/74.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 75,
+      "name": "«твист-офф» Ф66 (пчелка)",
+      "catalogId": "lid_tvist",
+      "finish": {
+        "type": 66,
+        "description": "66 мм"
+      },
+      "packaging_options": {
+        "box": 1250
+      },
+      "img": {
+        "alt": "Product 75",
+        "src": "/catalog/cap_tvist/cap_Крышка«твист-офф»Ф66_(пчелка).jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 75",
+        "src": "/catalog/product_img/75.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 76,
+      "name": "«твист-офф» Ф82 (красная, черная, зеленая, белая, золото)",
+      "catalogId": "lid_tvist",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "packaging_options": {
+        "box": 750
+      },
+      "img": {
+        "alt": "Product 76",
+        "src": "/catalog/cap_tvist/cap_Крышка«твист-офф»Ф82_(красная).jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 76",
+        "src": "/catalog/product_img/76.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 77,
+      "name": "«твист-офф» Ф82 (пчелка)",
+      "catalogId": "lid_tvist",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "packaging_options": {
+        "box": 750
+      },
+      "img": {
+        "alt": "Product 77",
+        "src": "/catalog/cap_tvist/cap_Крышка«твист-офф»Ф66_(пчелка).jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 77",
+        "src": "/catalog/product_img/77.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 78,
+      "name": "«твист-офф» Ф82 (микс, овощи)",
+      "catalogId": "lid_tvist",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "packaging_options": {
+        "box": 750
+      },
+      "img": {
+        "alt": "Product 78",
+        "src": "/catalog/cap_tvist/cap_Крышка«твист-офф»Ф82_(микс).jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 78",
+        "src": "/catalog/product_img/78.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 79,
+      "name": "«твист-офф» Ф100 (красная, золото)",
+      "catalogId": "lid_tvist",
+      "finish": {
+        "type": 100,
+        "description": "100 мм"
+      },
+      "packaging_options": {
+        "box": 350
+      },
+      "img": {
+        "alt": "Product 79",
+        "src": "/catalog/cap_tvist/cap_Крышка«твист-офф»Ф100_(красная).jpg",
+        "width": 100,
+        "height": 100
+      },
+      "imgProduct": {
+        "alt": "Product 79",
+        "src": "/catalog/product_img/79.jpg",
+        "width": 100,
+        "height": 100
+      }
+    },
+    {
+      "id": 80,
+      "name": "СКО 82 мм",
+      "catalogId": "lid_sko",
+      "finish": {
+        "type": 82,
+        "description": "82 мм"
+      },
+      "packaging_options": {
+        "box": 1000
+      },
+      "img": {
+        "alt": "Product 1",
+        "src": "/catalog/cap_sko/cap_Крышка_СКО_82мм.jpg",
+        "width": 100,
+        "height": 100
+      }
+    }
+  ]
+}
